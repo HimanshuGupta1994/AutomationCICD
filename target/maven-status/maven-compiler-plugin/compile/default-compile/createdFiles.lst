@@ -1,0 +1,8 @@
+dheerajParmar\pageobjects\ChechkOutPage.class
+dheerajParmar\pageobjects\OrderPage.class
+dheerajParmar\abstractComponents\abstractComponent.class
+dheerajParmar\resources\ExtentReporterNG.class
+dheerajParmar\pageobjects\CartPage.class
+dheerajParmar\pageobjects\ConfirmationPage.class
+dheerajParmar\pageobjects\LandingPage.class
+dheerajParmar\pageobjects\ProductCatalogue.class

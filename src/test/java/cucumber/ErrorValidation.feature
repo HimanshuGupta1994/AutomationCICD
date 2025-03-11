@@ -9,4 +9,7 @@ Feature: Error Validation
 
     Examples: 
       | name             | password | 
-      | shetty@gmail.com | Iamking@0 | 
+      | shetty@gmail.com | Iamking@0 |
+      | shetty@gmail.com | Iamking@0 |
+      | shetty@gmail.com | Iamking@0 |
+      | shetty@gmail.com | Iamking@0 |
